@@ -17,4 +17,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Git bisect
-        run: python myscritp.py
+        run: python myscritpt.py
